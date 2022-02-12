@@ -1,4 +1,4 @@
-# _ECOFLY_ Airline Ticket Booking Website Project
+# _ECOFLY_     Airline Ticket Booking Website Project
 
 *We have created this Airline Ticket Booking Website with my project team 
 @nilsudilcobut and @emirbahadırözdil by using C# and MS SQL Server database
@@ -18,5 +18,7 @@ update/rearrange available flight features (such as fare,from,to,hour,duration),
 admin can also list all the booked flights by the users with booking information
 and add/change pick up points for the boarding.
 
-
+*Default data tables for passengers,flights,pick up points,booked flights etc. 
+exists in the MS SQL Server; whenever a new booking happens new
+booking information recorded to the existing tables.
 
