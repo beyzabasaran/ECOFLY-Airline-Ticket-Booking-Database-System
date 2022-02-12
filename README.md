@@ -1,4 +1,4 @@
-# _ECOFLY_     Airline Ticket Booking Website Project
+# _ECOFLY_     Airline Ticket Booking Database System
 
 *We have created this Airline Ticket Booking Website with my project team 
 @nilsudincobut and @emirbahadırözdil by using C# and MS SQL Server database.
