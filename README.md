@@ -1,11 +1,13 @@
 # _ECOFLY_     Airline Ticket Booking Database System
 
-![image](AppleDisk/Users/admin/Downloads/website11.png![image](https://user-images.githubusercontent.com/89788024/154130715-15c513e0-49ba-47ca-96d2-87da53d4bb05.png))
+<img width="468" alt="website11" src="https://user-images.githubusercontent.com/89788024/154131480-f85e4155-39b6-4f2a-b9d0-3a3c2fc12bd3.png">
 
+:desktop_computer: | [Canva Presentation](https://www.canva.com/design/DAE0-TAPc4A/BZyGojJj6vrC9tDtBShDBg/view?utm_content=DAE0-TAPc4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
+:octocat: 
 *We have created this Airline Ticket Booking Database System with my project team 
-@nilsudincobut and @emirbahadırözdil by using C# and MS SQL Server database.
-Visual Studio has been used as an project IDE.
+@nilsudincobut and @emirbahadırözdil by using C# programming language and MS SQL 
+Server database. Visual Studio has been used as an project IDE.
 
 *Our Website name is _ECOFLY_
 
@@ -32,4 +34,18 @@ passengers, flights, pick up points, booked flights etc.
 exists in the MS SQL Server; 
 whenever a new booking happens new
 booking information recorded to the existing tables.
+
+
+          //  HIGH LEVEL ORGANISATION
+<img width="377" alt="highlevelorganisation" src="https://user-images.githubusercontent.com/89788024/154132493-e8a8f1ad-d09e-4f79-a67a-863f89b63352.png">
+
+
+
+          //  FUCTIONALITY
+<img width="377" alt="fuctionality" src="https://user-images.githubusercontent.com/89788024/154132518-9217f4cd-e198-4596-8444-b2527fe2f690.png">
+
+
+
+          //  ER DIAGRAM
+<img width="397" alt="erdiagram" src="https://user-images.githubusercontent.com/89788024/154132530-34ed6846-6478-4553-aafe-06a02f097729.png">
 
