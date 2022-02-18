@@ -5,7 +5,7 @@
 :desktop_computer: | [Canva Presentation](https://www.canva.com/design/DAE0-TAPc4A/BZyGojJj6vrC9tDtBShDBg/view?utm_content=DAE0-TAPc4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
 :octocat: 
-*We have created this Airline Ticket Booking Database System with my project team 
+*We have created this Airline Ticket Booking Database System with **our project team** 
 **_@nilsudincobut_**  and **_@emirbahadırözdil_**  by using C# programming language and MS SQL 
 Server database. Visual Studio has been used as an project IDE.
 
