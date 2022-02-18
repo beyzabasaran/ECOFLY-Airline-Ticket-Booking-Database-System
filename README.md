@@ -6,7 +6,7 @@
 
 :octocat: 
 *We have created this Airline Ticket Booking Database System with my project team 
-@nilsudincobut and @emirbahadırözdil by using C# programming language and MS SQL 
+**_@nilsudincobut_**  and **_@emirbahadırözdil_**  by using C# programming language and MS SQL 
 Server database. Visual Studio has been used as an project IDE.
 
 *Our Website name is _ECOFLY_
